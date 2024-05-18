@@ -22,7 +22,7 @@ yearEl.innerHTML = new Date().getFullYear();
 const projects = [
   {
     name: "Resume",
-    img: "Darshan UI UX Resume 2024.png",
+    img: "darshan-uiux-resume.png",
 
     liveUrl:
       "https://www.figma.com/design/nCpyBY1RHlQ9QPvqsp3U6I/Darshan-UI-UX-Resume-2024?node-id=0%3A1&t=AKBPsUVYgmzxOqIn-1",
@@ -30,7 +30,7 @@ const projects = [
   },
   {
     name: "Logos design list",
-    img: "Logos.PNG",
+    img: "logos.png",
 
     liveUrl:
       "https://www.figma.com/design/VktDCTl14wzVSzr6HFSC6j/LOGOS-Project1?node-id=0%3A1&t=sMBqz1ShejrF61ps-1",
@@ -38,7 +38,7 @@ const projects = [
   },
   {
     name: "Brank-Kit Design",
-    img: "BrandKit.PNG",
+    img: "brandkit.png",
 
     liveUrl:
       "https://www.figma.com/file/PiFcyoXhJlIYvvkJI9ZxJX/Design-Forge-Brand-KIT?type=design&node-id=0%3A1&mode=design&t=GXK3dKoxh663vzyR-1",
@@ -46,7 +46,7 @@ const projects = [
   },
   {
     name: "Website Mock-ups",
-    img: "Adden AI website.PNG",
+    img: "adden-ai-website.png",
 
     liveUrl:
       "https://www.figma.com/design/oqpQ2fzP9N7oeotnsmITgZ/Adden-AI-WEBSITE-Mock-up?node-id=0%3A1&t=86RAY5lKvuBqUzM3-1",
