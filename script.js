@@ -21,12 +21,36 @@ yearEl.innerHTML = new Date().getFullYear();
 /* *********** */
 const projects = [
   {
-    name: "Logos Redesign list",
-    img: "logos-2.png",
+    name: "Resume",
+    img: "Darshan UI UX Resume 2024.png",
 
     liveUrl:
-      "https://www.figma.com/file/VktDCTl14wzVSzr6HFSC6j/LOGOS?type=design&node-id=1%3A16&mode=design&t=cwY3wyRNBmjhxMsF-1https://justdecodeme.github.io/portfolio/projects/todo/",
+      "https://www.figma.com/design/nCpyBY1RHlQ9QPvqsp3U6I/Darshan-UI-UX-Resume-2024?node-id=0%3A1&t=AKBPsUVYgmzxOqIn-1",
+    tags: ["resume"],
+  },
+  {
+    name: "Logos design list",
+    img: "Logos.PNG",
+
+    liveUrl:
+      "https://www.figma.com/design/VktDCTl14wzVSzr6HFSC6j/LOGOS-Project1?node-id=0%3A1&t=sMBqz1ShejrF61ps-1",
     tags: ["logo"],
+  },
+  {
+    name: "Brank-Kit Design",
+    img: "BrandKit.PNG",
+
+    liveUrl:
+      "https://www.figma.com/file/PiFcyoXhJlIYvvkJI9ZxJX/Design-Forge-Brand-KIT?type=design&node-id=0%3A1&mode=design&t=GXK3dKoxh663vzyR-1",
+    tags: ["design"],
+  },
+  {
+    name: "Website Mock-ups",
+    img: "Adden AI website.PNG",
+
+    liveUrl:
+      "https://www.figma.com/design/oqpQ2fzP9N7oeotnsmITgZ/Adden-AI-WEBSITE-Mock-up?node-id=0%3A1&t=86RAY5lKvuBqUzM3-1",
+    tags: ["website"],
   },
 ];
 
