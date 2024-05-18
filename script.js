@@ -34,7 +34,7 @@ const projects = [
 
     liveUrl:
       "https://www.figma.com/design/VktDCTl14wzVSzr6HFSC6j/LOGOS-Project1?node-id=0%3A1&t=sMBqz1ShejrF61ps-1",
-    tags: ["logo"],
+    tags: ["uidesign"],
   },
   {
     name: "Brank-Kit Design",
@@ -42,7 +42,7 @@ const projects = [
 
     liveUrl:
       "https://www.figma.com/file/PiFcyoXhJlIYvvkJI9ZxJX/Design-Forge-Brand-KIT?type=design&node-id=0%3A1&mode=design&t=GXK3dKoxh663vzyR-1",
-    tags: ["design"],
+    tags: ["uidesign"],
   },
   {
     name: "Website Mock-ups",
