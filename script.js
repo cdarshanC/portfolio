@@ -30,7 +30,7 @@ const projects = [
   },
   {
     name: "Logos design list",
-    img: "logo.png",
+    img: "logos-2.png",
 
     liveUrl:
       "https://www.figma.com/design/VktDCTl14wzVSzr6HFSC6j/LOGOS-Project1?node-id=0%3A1&t=sMBqz1ShejrF61ps-1",
@@ -38,7 +38,7 @@ const projects = [
   },
   {
     name: "Brank-Kit Design",
-    img: "brand-kit.png",
+    img: "brandkit.png",
 
     liveUrl:
       "https://www.figma.com/file/PiFcyoXhJlIYvvkJI9ZxJX/Design-Forge-Brand-KIT?type=design&node-id=0%3A1&mode=design&t=GXK3dKoxh663vzyR-1",
