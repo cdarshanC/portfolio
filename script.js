@@ -25,7 +25,7 @@ const projects = [
     img: "darshan-uiux-resume.png",
 
     liveUrl:
-      "https://www.figma.com/design/nCpyBY1RHlQ9QPvqsp3U6I/Darshan-UI-UX-Resume-2024?node-id=0%3A1&t=AKBPsUVYgmzxOqIn-1",
+      "https://www.figma.com/design/nCpyBY1RHlQ9QPvqsp3U6I/Darshan-UI-UX-Resume-2024?node-id=43-2&t=w2TPpS3TAqGFeA9p-1 ",
     tags: ["resume"],
   },
   {
