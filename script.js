@@ -37,6 +37,14 @@ const projects = [
     tags: ["prototype"],
   },
   {
+    name: "Built For Flight Wireframe",
+    img: "mobile_wireframe_1.png",
+
+    liveUrl:
+      "https://www.figma.com/proto/rISr4PzCjKlIh3oEHYlFs1/Wireframing-assignment-1?node-id=2-2&t=pXAYE4WHPCYVIniV-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1",
+    tags: ["wireframe"],
+  },
+  {
     name: "Logos design list",
     img: "logos-2.png",
 
@@ -59,14 +67,6 @@ const projects = [
     liveUrl:
       "https://www.figma.com/proto/oqpQ2fzP9N7oeotnsmITgZ/Adden-AI-WEBSITE-Mock-up?node-id=1-2&t=FDuGm6bXJJ900AfX-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2",
     tags: ["website"],
-  },
-  {
-    name: "Built For Flight Wireframe",
-    img: "mobile_wireframe_1.png",
-
-    liveUrl:
-      "https://www.figma.com/proto/rISr4PzCjKlIh3oEHYlFs1/Wireframing-assignment-1?node-id=2-2&t=pXAYE4WHPCYVIniV-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1",
-    tags: ["wireframe"],
   },
 ];
 
